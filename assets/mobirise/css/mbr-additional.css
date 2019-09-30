@@ -1108,6 +1108,27 @@ section.lazy-placeholder:after {
 .cid-rDpaBP9rFz H2 {
   color: #ffffff;
 }
+.cid-rDxFkn2RoR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rDxFkn2RoR .title {
+  margin-bottom: 2rem;
+}
+.cid-rDxFkn2RoR .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rDxFkn2RoR a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rDxFkn2RoR a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rDxFkn2RoR textarea.form-control {
+  min-height: 188px;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
